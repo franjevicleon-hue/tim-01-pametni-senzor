@@ -1,5 +1,9 @@
 # Simulacija upozorenja na temperaturu
 
+Mikro projekt iz računarstva, tim 01 (pametni senzor).
+
+Autor repozitorija: Leon Franjević ([franjevicleon-hue](https://github.com/franjevicleon-hue))
+
 Inačica: demo-v04. Projekt provjerava ručno unesenu temperaturu. Nema fizičkog senzora, mjerenja vlage ni upravljanja ventilatorom.
 
 ## Pokretanje
